@@ -18,11 +18,11 @@ const imageCache = {
 
 const app = express();
 
-const background = [ 255, 255, 255 ];
+const background = [ 12, 17, 23 ];
 
 const palette = [
     [ 235, 237, 240 ],
-    [ 172, 230, 174 ],
+    [ 126, 230, 130 ],
     [ 105, 192, 110 ],
     [  84, 158,  87 ],
     [  56, 107,  62 ]
